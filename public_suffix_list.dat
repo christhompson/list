@@ -211,6 +211,8 @@ ip6.arpa
 iris.arpa
 uri.arpa
 urn.arpa
+// RFC 8375 special-cases home.arpa for local (non-unique) names
+!home.arpa
 
 // as : https://en.wikipedia.org/wiki/.as
 as
